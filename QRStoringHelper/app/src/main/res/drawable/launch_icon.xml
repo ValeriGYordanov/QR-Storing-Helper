@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_quirky_logo_icon_vector"
+        android:width="120dp"
+        android:height="120dp"
+        android:gravity="center|top"/>
+    <item android:drawable="@drawable/ic_quirky_icon_vector"
+        android:top="45dp"
+        android:left="35dp"
+        android:width="200dp"
+        android:height="200dp"
+        android:gravity="center|bottom"/>
+</layer-list>

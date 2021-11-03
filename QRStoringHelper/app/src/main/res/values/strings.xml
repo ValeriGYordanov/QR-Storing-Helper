@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">QR Storing Helper</string>
+    <string name="facebook_app_id">408047507309512</string>
+    <string name="fb_login_protocol_scheme">fb408047507309512</string>
+    <string name="app_name">Quirky</string>
+    <string name="offline_version">Offline Version</string>
+    <string name="proceed">Continue</string>
+    <string name="close">Close</string>
+    <string name="offline_version_message">Using the offline version will not keep you synced between devices.\nWe recommend using social media or email login as it will keep your data secured in the cloud</string>
 </resources>
